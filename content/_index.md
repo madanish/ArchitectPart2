@@ -14,3 +14,4 @@ In this workshop you will learn to apply your foundational knowledge of [Genesys
 - Setup and configure your environment.
 - Creating users and groups.
 - Configure security.
+qdwdqwdqwd
